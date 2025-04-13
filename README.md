@@ -26,5 +26,5 @@ Um projeto simples de lista de tarefas (To-Do List) feito em Python, totalmente 
 ### 1. Clone o repositório
 
 ```bash
-git clone https://github.com/seu-usuario/nome-do-repo.git
+git clone [https://github.com/seu-usuario/nome-do-repo.git](https://github.com/PedroWSantana/Contro-de-tarefas)
 cd nome-do-repo
